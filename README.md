@@ -17,7 +17,7 @@ In this project, we will refactor the code we created for Steve to to loop throu
 
 From the elapsed time shown on above pictures, we can see that there's a huge improvement in the runtime in the refactored code.
 
-# SummaRY
+# Summary
 ## Advantages of Refactoring codes
 Refactoring will code makes code more efficient with fewer steps.
 
